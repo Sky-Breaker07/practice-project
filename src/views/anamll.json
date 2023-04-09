@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the foot?",
+      "options": [
+        "Tibialis anterior",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the quadriceps muscles?",
+      "options": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantar flexion of the foot?",
+      "options": [
+        "Gastrocnemius",
+        "Tibialis anterior",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which nerve innervates the hamstrings muscles?",
+      "options": [
+        "Sciatic nerve",
+        "Femoral nerve",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Sciatic nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Tibialis anterior",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the adductor muscles?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Fibularis longus",
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior"
+      ],
+      "answer": "Fibularis longus"
+    },
+    {
+      "question": "Which nerve innervates the gluteus maximus muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Femoral nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Iliopsoas",
+        "Rectus femoris",
+        "Adductor magnus"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the hip?",
+      "options": [
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Rectus femoris",
+        "Adductor magnus"
+      ],
+      "answer": "Iliopsoas"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the knee?",
+      "ptions": [
+        "Hamstring muscles",
+        "Quadriceps muscles",
+        "Adductor magnus",
+        "Gluteus maximus"
+      ],
+      "answer": "Hamstring muscles"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the hip?",
+      "options": [
+        "Adductor magnus",
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Rectus femoris"
+      ],
+      "answer": "Adductor magnus"
+    },
+    {
+      "question": "Which nerve innervates the fibularis longus muscle?",
+      "options": [
+        "Superficial fibular nerve",
+        "Deep fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Superficial fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for external rotation of the hip?",
+      "options": [
+        "Piriformis",
+        "Gluteus maximus",
+        "Iliopsoas",
+        "Sartorius"
+      ],
+      "answer": "Piriformis"
+    },
+    {
+      "question": "Which nerve innervates the quadratus femoris muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Sciatic nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for internal rotation of the hip?",
+      "options": [
+        "Gluteus medius",
+        "Gluteus minimus",
+        "Tensor fasciae latae",
+        "Piriformis"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the adductor magnus muscle?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the knee?",
+      "options": [
+        "Quadriceps muscles",
+        "Hamstring muscles",
+        "Gastrocnemius",
+        "Soleus"
+      ],
+      "answer": "Quadriceps muscles"
+    },
+    {
+      "question": "Which nerve innervates the gluteus minimus muscle?",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Femoral nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Superior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the hip?",
+      "options": [
+        "Gluteus medius",
+        "Gluteus maximus",
+        "Tensor fasciae latae",
+        "Sartorius"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the tibialis posterior muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for internal rotation of the tibia?",
+      "options": [
+        "Popliteus",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Popliteal"
+    },
+    {
+      "question": "Which nerve innervates the fibularis brevis muscle?",
+      "options": [
+        "Superficial fibular nerve",
+        "Deep fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Superficial fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantarflexion of the ankle?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Extensor digitorum longus"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which nerve innervates the extensor hallucis longus muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the ankle?",
+      "options": [
+        "Tibialis anterior",
+        "Soleus",
+        "Gastrocnemius",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Fibularis brevis",
+        "Fibularis longus",
+        "Tibialis posterior",
+        "Soleus"
+      ],
+      "answer": "Fibularis brevis"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Tibialis posterior",
+        "Fibularis brevis",
+        "Fibularis longus",
+        "Soleus"
+      ],
+      "answer": "Tibialis posterior"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the toes?",
+      "options": [
+        "Extensor digitorum longus",
+        "Flexor digitorum longus",
+        "Flexor hallucis longus",
+        "Extensor hallucis longus"
+      ],
+      "answer": "Extensor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the flexor hallucis longus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the toes?",
+      "options": [
+        "Flexor digitorum longus",
+        "Extensor digitorum longus",
+        "Extensor hallucis longus",
+        "Flexor hallucis longus"
+      ],
+      "answer": "Flexor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the adductor magnus muscle?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Tibial nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension and abduction of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Piriformis",
+        "Obturator internus"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the piriformis muscle?",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Sciatic nerve",
+        "Femoral nerve"
+      ],
+      "answer": "N/A (Innervated by branches of S1-S2 nerve roots, not a named peripheral nerve)"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the hip?",
+      "options": [
+        "Adductor magnus",
+        "Pectineus",
+        "Gracilis",
+        "Quadratus femoris"
+      ],
+      "answer": "Adductor magnus"
+    },
+    {
+      "question": "Which nerve innervates the pectineus muscle?",
+      "options": [
+        "Femoral nerve",
+        "Obturator nerve",
+        "Tibial nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion and lateral rotation of the hip?",
+      "options": [
+        "Iliacus",
+        "Psoas major",
+        "Sartorius",
+        "Rectus femoris"
+      ],
+      "answer": "Sartorius"
+    },
+    {
+      "question": "Which nerve innervates the quadratus femoris muscle?",
+      "options": [
+        "Tibial nerve",
+        "Femoral nerve",
+        "Obturator nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "N/A (Innervated by branches of L4-S1 nerve roots, not a named peripheral nerve)"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the hip?",
+      "options": [
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Tensor fasciae latae",
+        "Biceps femoris"
+      ],
+      "answer": "Iliopsoas"
+    },
+    {
+      "question": "Which nerve innervates the gluteus maximus muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Sciatic nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Rectus femoris",
+        "Psoas major"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "Which nerve innervates the psoas major muscle?",
+      "options": [
+        "Tibial nerve",
+        "Obturator nerve",
+        "Femoral nerve",
+        "Lumbar plexus"
+      ],
+      "answer": "Lumbar plexus"
+    },
+    {
+      "question": "Which muscle is responsible for lateral rotation of the hip?",
+      "options": [
+        "Piriformis",
+        "Obturator externus",
+        "Quadratus femoris",
+        "Gemellus superior"
+      ],
+      "answer": "Piriformis"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular (peroneal) nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Deep fibular (peroneal) nerve"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the ankle?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Peroneus longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Deep fibular (peroneal) nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantarflexion of the ankle?",
+      "options": [
+        "Tibialis anterior",
+        "Soleus",
+        "Peroneus longus",
+        "Extensor digitorum longus"
+      ],
+      "answer": "Soleus"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Superficial fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve",
+        "Deep fibular (peroneal) nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Tibialis posterior",
+        "Peroneus longus",
+        "Soleus",
+        "Gastrocnemius"
+      ],
+      "answer": "Peroneus longus"
+    },
+    {
+      "question": "Which nerve innervates the peroneus longus muscle?",
+      "options": [
+        "Deep fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Superficial fibular (peroneal) nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Peroneus tertius",
+        "Tibialis posterior",
+        "Extensor digitorum longus",
+        "Flexor digitorum longus"
+      ],
+      "answer": "Tibialis posterior"
+    },
+    {
+      "question": "Which nerve innervates the tibialis posterior muscle?",
+      "options": [
+        "Saphenous nerve",
+        "Tibial nerve",
+        "Deep fibular (peroneal) nerve",
+        "Superficial fibular (peroneal) nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the toes?",
+      "options": [
+        "Flexor digitorum longus",
+        "Extensor digitorum longus",
+        "Abductor hallucis",
+        "Flexor hallucis longus"
+      ],
+      "answer": "Extensor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the extensor digitorum longus muscle?",
+      "options": [
+        "Superficial fibular (peroneal) nerve",
+        "Deep fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Deep fibular (peroneal) nerve"
+    }
+  ]
+}

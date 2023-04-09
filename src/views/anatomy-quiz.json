@@ -1,0 +1,549 @@
+{
+  "questions1": [
+    {
+      "question": "What is the largest bone in the human body?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which muscle is responsible for extending the hip joint?",
+      "options": [
+        "Sartorius",
+        "Gracilis",
+        "Gluteus maximus",
+        "Pectineus"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "What is the function of the Achilles tendon?",
+      "options": [
+        "To flex the ankle",
+        "To extend the knee",
+        "To extend the ankle",
+        "To flex the knee"
+      ],
+      "answer": "To extend the ankle"
+    },
+    {
+      "question": "Which bone forms the heel of the foot?",
+      "options": [
+        "Calcaneus",
+        "Talus",
+        "Cuboid",
+        "Navicular"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "What is the name of the muscle that runs down the front of the thigh?",
+      "options": [
+        "Rectus femoris",
+        "Semitendinosus",
+        "Sartorius",
+        "Biceps femoris"
+      ],
+      "answer": "Rectus femoris"
+    },
+    {
+      "question": "Which joint connects the femur to the tibia?",
+      "options": [
+        "Knee joint",
+        "Hip joint",
+        "Ankle joint",
+        "Subtalar joint"
+      ],
+      "answer": "Knee joint"
+    },
+    {
+      "question": "Which muscle is responsible for plantar flexion of the foot?",
+      "options": [
+        "Tibialis anterior",
+        "Soleus",
+        "Peroneus longus",
+        "Gastrocnemius"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which bone forms the shin?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Patella",
+        "Tibia"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the name of the joint that connects the foot to the leg?",
+      "options": [
+        "Knee joint",
+        "Ankle joint",
+        "Hip joint",
+        "Subtalar joint"
+      ],
+      "answer": "Ankle joint"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the foot?",
+      "options": [
+        "Soleus",
+        "Gastrocnemius",
+        "Tibialis anterior",
+        "Peroneus longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which bone is also known as the kneecap?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Patella"
+    },
+    {
+      "question": "Which bone is commonly known as the shinbone?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "Which muscle group is responsible for extension of the knee joint?",
+      "options": [
+        "Hamstrings",
+        "Quadriceps",
+        "Adductors",
+        "Abductors"
+      ],
+      "answer": "Quadriceps"
+    },
+    {
+      "question": "Which ligament connects the femur to the tibia?",
+      "options": [
+        "Medial collateral ligament",
+        "Lateral collateral ligament",
+        "Anterior cruciate ligament",
+        "Posterior cruciate ligament"
+      ],
+      "answer": "Anterior cruciate ligament"
+    },
+    {
+      "question": "Which bone articulates with the talus bone to form the ankle joint?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Calcaneus",
+        "Metatarsals"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "Which muscle group is responsible for plantar flexion of the ankle joint?",
+      "options": [
+        "Tibialis anterior",
+        "Gastrocnemius",
+        "Soleus",
+        "Peroneals"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which bone is located on the lateral side of the lower leg?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "Which ligament connects the lateral malleolus to the calcaneus bone?",
+      "options": [
+        "Anterior talofibular ligament",
+        "Posterior talofibular ligament",
+        "Calcaneofibular ligament",
+        "Deltoid ligament"
+      ],
+      "answer": "Calcaneofibular ligament"
+    },
+    {
+      "question": "Which muscle group is responsible for hip flexion?",
+      "options": [
+        "Hamstrings",
+        "Gluteals",
+        "Quadriceps",
+        "Adductors"
+      ],
+      "answer": "Quadriceps"
+    },
+    {
+      "question": "Which bone forms the heel of the foot?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "Which ligament connects the medial malleolus to the talus bone?",
+      "options": [
+        "Anterior talofibular ligament",
+        "Posterior talofibular ligament",
+        "Calcaneofibular ligament",
+        "Deltoid ligament"
+      ],
+      "answer": "Deltoid ligament"
+    },
+    {
+      "question": "Which muscle group is responsible for hip extension?",
+      "options": [
+        "Hamstrings",
+        "Gluteals",
+        "Quadriceps",
+        "Adductors"
+      ],
+      "answer": "Gluteals"
+    },
+    {
+      "question": "Which bone articulates with the metatarsals to form the ball of the foot?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Metatarsals"
+    },
+    {
+      "question": "Which muscle is responsible for plantarflexion of the foot?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Peroneus longus"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which bone articulates with the talus to form the ankle joint?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Calcaneus",
+        "Navicular"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the largest bone in the lower limb?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which muscle is responsible for hip abduction?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Gluteus minimus",
+        "Piriformis"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which ligament connects the femur to the tibia and prevents anterior displacement of the tibia?",
+      "options": [
+        "Medial collateral ligament",
+        "Lateral collateral ligament",
+        "Anterior cruciate ligament",
+        "Posterior cruciate ligament"
+      ],
+      "answer": "Anterior cruciate ligament"
+    },
+    {
+      "question": "Which nerve supplies the muscles of the anterior compartment of the leg?",
+      "options": [
+        "Femoral nerve",
+        "Tibial nerve",
+        "Common peroneal nerve",
+        "Superficial peroneal nerve"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "What is the joint between the tibia and fibula called?",
+      "options": [
+        "Knee joint",
+        "Ankle joint",
+        "Tibiofibular joint",
+        "Hip joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the foot?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Peroneus longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which bone forms the heel of the foot?",
+      "options": [
+        "Calcaneus",
+        "Talus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "Which muscle is responsible for hip extension?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Gluteus minimus",
+        "Piriformis"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "Which ligament connects the femur to the tibia and prevents valgus stress?",
+      "options": [
+        "Medial collateral ligament",
+        "Lateral collateral ligament",
+        "Anterior cruciate ligament",
+        "Posterior cruciate ligament"
+      ],
+      "answer": "Medial collateral ligament"
+    },
+    {
+      "question": "Which nerve supplies the muscles of the lateral compartment of the leg?",
+      "options": [
+        "Femoral nerve",
+        "Tibial nerve",
+        "Common peroneal nerve",
+        "Superficial peroneal nerve"
+      ],
+      "answer": "Common peroneal nerve"
+    },
+    {
+      "question": "Which of the following bones is located in the thigh?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Patella",
+        "Femur"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which muscle is responsible for extending the knee?",
+      "options": [
+        "Sartorius",
+        "Gracilis",
+        "Semitendinosus",
+        "Quadriceps femoris"
+      ],
+      "answer": "Quadriceps femoris"
+    },
+    {
+      "question": "What is the name of the joint between the femur and the tibia?",
+      "options": [
+        "Hip joint",
+        "Knee joint",
+        "Ankle joint",
+        "Sacroiliac joint"
+      ],
+      "answer": "Knee joint"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the foot?",
+      "options": [
+        "Gastrocnemius",
+        "Tibialis anterior",
+        "Peroneus longus",
+        "Soleus"
+      ],
+      "answer": "Tibialis anterior"
+      
+    },
+    {
+      "question": "What is the name of the joint between the talus and the tibia?",
+      "options": [
+        "Hip joint",
+        "Knee joint",
+        "Ankle joint",
+        "Sacroiliac joint"
+      ],
+      "answer": "Ankle joint"
+    },
+    
+    {
+      "question": "Which of the following muscles is located on the front of the thigh?",
+      "options": [
+        "Biceps femoris",
+        "Rectus femoris",
+        "Semitendinosus",
+        "Adductor magnus"
+      ],
+      "answer": "Rectus femoris"
+    },
+    {
+      "question": "Which bone in the leg is commonly referred to as the 'shinbone'?",
+      "options": [
+        "Fibula",
+        "Patella",
+        "Femur",
+        "Tibia"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the term used to describe the outermost layer of bone?",
+      "options": [
+        "Medullary cavity",
+        "Periosteum",
+        "Endosteum",
+        "Trabeculae"
+      ],
+      "answer": "Periosteum"
+    },
+    {
+      "question": "Which of the following is a bursa located at the front of the knee joint?",
+      "options": [
+        "Prepatellar bursa",
+        "Anserine bursa",
+        "Popliteal bursa",
+        "Trochanteric bursa"
+      ],
+      "answer": "Prepatellar bursa"
+    },
+    {
+      "question": "Which muscle is responsible for flexion at the hip joint?",
+      "options": [
+        "Iliopsoas",
+        "Rectus femoris",
+        "Gluteus maximus",
+        "Biceps femoris"
+      ],
+      "answer": "Iliopsoas"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the hip joint?",
+      "options": [
+        "Gluteus medius",
+        "Sartorius",
+        "Adductor magnus",
+        "Semitendinosus"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which of the following is not a component of the knee joint?",
+      "options": [
+        "Fibula",
+        "Femur",
+        "Tibia",
+        "Patella"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "Which of the following ligaments connects the femur to the tibia and provides stability to the knee joint?",
+      "options": [
+        "Anterior cruciate ligament",
+        "Medial collateral ligament",
+        "Lateral collateral ligament",
+        "Posterior cruciate ligament"
+      ],
+      "answer": "Medial collateral ligament"
+    },
+    {
+      "question": "What is the name of the muscle group that is responsible for dorsiflexion of the ankle?",
+      "options": [
+        "Hamstrings",
+        "Gastrocnemius",
+        "Quadriceps",
+        "Tibialis anterior"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the ankle joint?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Tarsal bones",
+        "Metatarsal bones"
+      ],
+      "answer": "Metatarsal bones"
+    },
+    {
+      "question": "Which of the following is NOT a function of the lower limb?",
+      "options": [
+        "Support the weight of the body",
+        "Allow movement of the body",
+        "Protect the internal organs",
+        "Maintain balance and stability"
+      ],
+      "answer": "Protect the internal organs"
+    },
+    {
+      "question": "What is the name of the joint between the tibia and fibula?",
+      "options": [
+        "Knee joint",
+        "Hip joint",
+        "Ankle joint",
+        "Elbow joint"
+      ],
+      "answer": "Ankle joint"
+    },
+    {
+      "question": "Which of the following muscles is NOT part of the quadriceps group?",
+      "options": [
+        "Vastus lateralis",
+        "Vastus medialis",
+        "Vastus intermedius",
+        "Biceps femoris"
+      ],
+      "answer": "Biceps femoris"
+    },
+    {
+      "question": "What is the name of the muscle group that is responsible for plantarflexion of the ankle?",
+      "options": [
+        "Hamstrings",
+        "Gastrocnemius",
+        "Quadriceps",
+        "Tibialis anterior"
+      ],
+      "answer": "Gastrocnemius"
+    }
+  ],
+  "questions2": [
+    
+  ]
+}

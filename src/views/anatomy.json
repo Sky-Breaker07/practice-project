@@ -1,0 +1,2620 @@
+{
+  "lowerLimbOsteology": [
+    {
+      "question": "What is the bone that articulates with the tibia and the fibula?",
+      "options": [
+        "Patella",
+        "Calcaneus",
+        "Talus",
+        "Femur"
+      ],
+      "answer": "Talus"
+    },
+    {
+      "question": "What is the largest bone in the human body?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the medical term for the kneecap?",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Patella",
+        "Fibula"
+      ],
+      "answer": "Patella"
+    },
+    {
+      "question": "Which bone in the leg is responsible for bearing most of the body's weight?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the bone that connects the hip bone to the knee?",
+      "options": [
+        "Tibia",
+        "Femur",
+        "Fibula",
+        "Patella"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "Which of the following bones is not part of the knee joint?",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Patella",
+        "Fibula"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the bone that forms the heel?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "Which of the following bones is not part of the hip joint?",
+      "options": [
+        "Femur",
+        "Tibia",
+        "Ilium",
+        "Ischium"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the bone that forms the upper part of the foot?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Navicular"
+    },
+    {
+      "question": "Which bone is located on the lateral side of the leg?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the bone that connects the ankle and the heel?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Cuboid"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "Which of the following bones is not part of the femur?",
+      "options": [
+        "Femoral head",
+        "Femoral neck",
+        "Femoral condyles",
+        "Tibial tuberosity"
+      ],
+      "answer": "Tibial tuberosity"
+    },
+    {
+      "question": "What is the name of the ridge that runs down the back of the femur?",
+      "options": [
+        "Greater trochanter",
+        "Lesser trochanter",
+        "Linea aspera",
+        "Popliteal line"
+      ],
+      "answer": "Linea aspera"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Navicular",
+        "Metatarsal"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the bone that articulates with the talus and the calcaneus?",
+      "options": [
+        "Navicular",
+        "Cuboid",
+        "Talus",
+        "Calcaneus"
+      ],
+      "answer": "Calcaneus"
+    },
+    {
+      "question": "Which of the following bones is not part of the tarsal bones?",
+      "options": [
+        "Calcaneus",
+        "Talus",
+        "Metatarsal",
+        "Navicular"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the bone that connects the patella to the tibia?",
+      "options": [
+        "Fibula",
+        "Patella ligament",
+        "Talus",
+        "Meniscus"
+      ],
+      "answer": "Patella ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the femur?",
+      "options": [
+        "Femoral head",
+        "Femoral neck",
+        "Femoral trochanters",
+        "Femoral tuberosity"
+      ],
+      "answer": "Femoral tuberosity"
+    },
+    {
+      "question": "What is the name of the joint that connects the femur and the pelvis?",
+      "options": [
+        "Hip joint",
+        "Knee joint",
+        "Ankle joint",
+        "Sacral joint"
+      ],
+      "answer": "Hip joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the knee joint?",
+      "options": [
+        "Patella",
+        "Tibia",
+        "Femur",
+        "Fibula"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the bone that forms the medial malleolus?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "Which of the following bones is not part of the tibia?",
+      "options": [
+        "Medial malleolus",
+        "Fibular notch",
+        "Lateral malleolus",
+        "Tibial tuberosity"
+      ],
+      "answer": "Lateral malleolus"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Femorotibial joint",
+        "Fibulotalar joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Calcaneus",
+        "Talus",
+        "Navicular",
+        "Metatarsal"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the bone that forms the lateral malleolus?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Femur",
+        "Patella"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the ligament that connects the lateral malleolus to the talus?",
+      "options": [
+        "Deltoid ligament",
+        "Calcaneofibular ligament",
+        "Tibiofibular ligament",
+        "Anterior talofibular ligament"
+      ],
+      "answer": "Calcaneofibular ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Cuboid",
+        "Calcaneus",
+        "Talus",
+        "Femur"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "What is the name of the joint that connects the calcaneus and the cuboid?",
+      "options": [
+        "Cuboid joint",
+        "Calcaneocuboid joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint"
+      ],
+      "answer": "Calcaneocuboid joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Cuboid",
+        "Navicular"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the navicular?",
+      "options": [
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Calcaneocuboid joint",
+        "Naviculocuneiform joint"
+      ],
+      "answer": "Talocalcaneonavicular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the tarsal bones?",
+      "options": [
+        "Metatarsal",
+        "Navicular",
+        "Calcaneus",
+        "Cuboid"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the tibia?",
+      "options": [
+        "Talocrural joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Talocrural joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the knee joint?",
+      "options": [
+        "Fibula",
+        "Patella",
+        "Tibia",
+        "Femur"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the ligament that connects the patella to the tibia?",
+      "options": [
+        "Fibular collateral ligament",
+        "Patellar ligament",
+        "Tibial collateral ligament",
+        "Anterior cruciate ligament"
+      ],
+      "answer": "Patellar ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the tibia?",
+      "options": [
+        "Fibular notch",
+        "Tibial tuberosity",
+        "Medial malleolus",
+        "Lateral malleolus"
+      ],
+      "answer": "Lateral malleolus"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Fibulotibial joint",
+        "Femorotibial joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Fibula",
+        "Talus",
+        "Calcaneus",
+        "Navicular"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the distal tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Fibulotibial joint",
+        "Femorotibial joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Cuboid",
+        "Femur",
+        "Metatarsal"
+      ],
+      "answer": "Femur"
+    },
+    {
+      "question": "What is the name of the joint that connects the metatarsals to the phalanges?",
+      "options": [
+        "Tarsometatarsal joint",
+        "Metatarsophalangeal joint",
+        "Interphalangeal joint",
+        "Distal interphalangeal joint"
+      ],
+      "answer": "Metatarsophalangeal joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Tibia",
+        "Fibula",
+        "Calcaneus",
+        "Navicular"
+      ],
+      "answer": "Navicular"
+    },
+    {
+      "question": "What is the name of the ligament that connects the medial malleolus to the talus and the calcaneus?",
+      "options": [
+        "Deltoid ligament",
+        "Calcaneofibular ligament",
+        "Tibiofibular ligament",
+        "Anterior talofibular ligament"
+      ],
+      "answer": "Deltoid ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Cuboid"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the calcaneus?",
+      "options": [
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Calcaneocuboid joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Talocalcaneal joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Calcaneus",
+        "Cuboid",
+        "Fibula"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the talus?",
+      "options": [
+        "Talocrural joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Talocrural joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Fibula",
+        "Navicular",
+        "Calcaneus",
+        "Talus"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the phalanges to each other?",
+      "options": [
+        "Tarsometatarsal joint",
+        "Metatarsophalangeal joint",
+        "Interphalangeal joint",
+        "Distal interphalangeal joint"
+      ],
+      "answer": "Interphalangeal joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Calcaneus"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the fibula and the talus?",
+      "options": [
+        "Talofibular joint",
+        "Tibiofibular joint",
+        "Tarsometatarsal joint",
+        "Interphalangeal joint"
+      ],
+      "answer": "Talofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Cuboid",
+        "Calcaneus"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the name of the joint that connects the calcaneus and the cuboid?",
+      "options": [
+        "Calcaneocuboid joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Calcaneocuboid joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Navicular",
+        "Metatarsal"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the name of the ligament that connects the lateral malleolus to the talus and the calcaneus?",
+      "options": [
+        "Deltoid ligament",
+        "Calcaneofibular ligament",
+        "Tibiofibular ligament",
+        "Anterior talofibular ligament"
+      ],
+      "answer": "Anterior talofibular ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Patella"
+      ],
+      "answer": "Patella"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the navicular?",
+      "options": [
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint",
+        "Metatarsophalangeal joint",
+        "Talocrural joint"
+      ],
+      "answer": "Talocalcaneonavicular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Cuboid"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Fibulotibial joint",
+        "Femorotibial joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Scaphoid"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the distal tibia and the talus?",
+      "options": [
+        "Talocrural joint",
+        "Talocalcaneal joint",
+        "Talocalcanenavicular joint",
+        "Talocalcaneocuboid joint"
+      ],
+      "answer": "Talocrural joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Calcaneus"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the fibula and the talus?",
+      "options": [
+        "Talofibular joint",
+        "Tibiofibular joint",
+        "Tarsometatarsal joint",
+        "Interphalangeal joint"
+      ],
+      "answer": "Talofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Fibula",
+        "Tibia",
+        "Cuboid",
+        "Calcaneus"
+      ],
+      "answer": "Tibia"
+    },
+    {
+      "question": "What is the name of the joint that connects the calcaneus and the cuboid?",
+      "options": [
+        "Calcaneocuboid joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Calcaneocuboid joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Navicular",
+        "Metatarsal"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the name of the ligament that connects the lateral malleolus to the talus and the calcaneus?",
+      "options": [
+        "Deltoid ligament",
+        "Calcaneofibular ligament",
+        "Tibiofibular ligament",
+        "Anterior talofibular ligament"
+      ],
+      "answer": "Anterior talofibular ligament"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Patella"
+      ],
+      "answer": "Patella"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the navicular?",
+      "options": [
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint",
+        "Metatarsophalangeal joint",
+        "Talocrural joint"
+      ],
+      "answer": "Talocalcaneonavicular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Cuboid"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Fibulotibial joint",
+        "Femorotibial joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Scaphoid"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the distal tibia and the talus?",
+      "options": [
+        "Talocrural joint",
+        "Tibiofibular joint",
+        "Talocalcaneonavicular joint",
+        "Calcaneocuboid joint"
+      ],
+      "answer": "Talocrural joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Metatarsal"
+      ],
+      "answer": "Metatarsal"
+    },
+    {
+      "question": "What is the name of the joint that connects the calcaneus and the cuboid?",
+      "options": [
+        "Calcaneocuboid joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Calcaneocuboid joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Patella"
+      ],
+      "answer": "Patella"
+    },
+    {
+      "question": "What is the name of the joint that connects the talus and the navicular?",
+      "options": [
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint",
+        "Metatarsophalangeal joint",
+        "Talocrural joint"
+      ],
+      "answer": "Talocalcaneonavicular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Cuboid"
+      ],
+      "answer": "Cuboid"
+    },
+    {
+      "question": "What is the name of the joint that connects the tibia and the fibula?",
+      "options": [
+        "Tibiofibular joint",
+        "Fibulotibial joint",
+        "Femorotibial joint",
+        "Patellofemoral joint"
+      ],
+      "answer": "Tibiofibular joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Scaphoid"
+      ],
+      "answer": "Fibula"
+    },
+    {
+      "question": "What is the name of the joint that connects the distal tibia and the talus?",
+      "options": [
+        "Talocrural joint",
+        "Tibiofibular joint",
+        "Calcaneocuboid joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Talocrural joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the ankle joint?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Calcaneus",
+        "Navicular"
+      ],
+      "answer": "Navicular"
+    },
+    {
+      "question": "What is the name of the joint that connects the calcaneus and the talus?",
+      "options": [
+        "Talocrural joint",
+        "Talocalcaneal joint",
+        "Talocalcaneonavicular joint",
+        "Tarsometatarsal joint"
+      ],
+      "answer": "Talocalcaneal joint"
+    },
+    {
+      "question": "Which of the following bones is not part of the foot?",
+      "options": [
+        "Talus",
+        "Fibula",
+        "Cuboid",
+        "Lunate"
+      ],
+      "answer": "Fibula"
+    }
+  ],
+  "lowerLimbSupply": [
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the foot?",
+      "options": [
+        "Tibialis anterior",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the quadriceps muscles?",
+      "options": [
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantar flexion of the foot?",
+      "options": [
+        "Gastrocnemius",
+        "Tibialis anterior",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which nerve innervates the hamstrings muscles?",
+      "options": [
+        "Sciatic nerve",
+        "Femoral nerve",
+        "Tibial nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Sciatic nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Tibialis anterior",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the adductor muscles?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Fibularis longus",
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior"
+      ],
+      "answer": "Fibularis longus"
+    },
+    {
+      "question": "Which nerve innervates the gluteus maximus muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Femoral nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Iliopsoas",
+        "Rectus femoris",
+        "Adductor magnus"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the hip?",
+      "options": [
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Rectus femoris",
+        "Adductor magnus"
+      ],
+      "answer": "Iliopsoas"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the knee?",
+      "ptions": [
+        "Hamstring muscles",
+        "Quadriceps muscles",
+        "Adductor magnus",
+        "Gluteus maximus"
+      ],
+      "answer": "Hamstring muscles"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the hip?",
+      "options": [
+        "Adductor magnus",
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Rectus femoris"
+      ],
+      "answer": "Adductor magnus"
+    },
+    {
+      "question": "Which nerve innervates the fibularis longus muscle?",
+      "options": [
+        "Superficial fibular nerve",
+        "Deep fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Superficial fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for external rotation of the hip?",
+      "options": [
+        "Piriformis",
+        "Gluteus maximus",
+        "Iliopsoas",
+        "Sartorius"
+      ],
+      "answer": "Piriformis"
+    },
+    {
+      "question": "Which nerve innervates the quadratus femoris muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Sciatic nerve",
+        "Obturator nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for internal rotation of the hip?",
+      "options": [
+        "Gluteus medius",
+        "Gluteus minimus",
+        "Tensor fasciae latae",
+        "Piriformis"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the adductor magnus muscle?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Sciatic nerve",
+        "Tibial nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the knee?",
+      "options": [
+        "Quadriceps muscles",
+        "Hamstring muscles",
+        "Gastrocnemius",
+        "Soleus"
+      ],
+      "answer": "Quadriceps muscles"
+    },
+    {
+      "question": "Which nerve innervates the gluteus minimus muscle?",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Femoral nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Superior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the hip?",
+      "options": [
+        "Gluteus medius",
+        "Gluteus maximus",
+        "Tensor fasciae latae",
+        "Sartorius"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the tibialis posterior muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for internal rotation of the tibia?",
+      "options": [
+        "Popliteus",
+        "Gastrocnemius",
+        "Soleus",
+        "Fibularis longus"
+      ],
+      "answer": "Popliteal"
+    },
+    {
+      "question": "Which nerve innervates the fibularis brevis muscle?",
+      "options": [
+        "Superficial fibular nerve",
+        "Deep fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Superficial fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantarflexion of the ankle?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Extensor digitorum longus"
+      ],
+      "answer": "Gastrocnemius"
+    },
+    {
+      "question": "Which nerve innervates the extensor hallucis longus muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the ankle?",
+      "options": [
+        "Tibialis anterior",
+        "Soleus",
+        "Gastrocnemius",
+        "Fibularis longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Fibularis brevis",
+        "Fibularis longus",
+        "Tibialis posterior",
+        "Soleus"
+      ],
+      "answer": "Fibularis brevis"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Tibial nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Deep fibular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Tibialis posterior",
+        "Fibularis brevis",
+        "Fibularis longus",
+        "Soleus"
+      ],
+      "answer": "Tibialis posterior"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the toes?",
+      "options": [
+        "Extensor digitorum longus",
+        "Flexor digitorum longus",
+        "Flexor hallucis longus",
+        "Extensor hallucis longus"
+      ],
+      "answer": "Extensor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the flexor hallucis longus muscle?",
+      "options": [
+        "Tibial nerve",
+        "Deep fibular nerve",
+        "Superficial fibular nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the toes?",
+      "options": [
+        "Flexor digitorum longus",
+        "Extensor digitorum longus",
+        "Extensor hallucis longus",
+        "Flexor hallucis longus"
+      ],
+      "answer": "Flexor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the adductor magnus muscle?",
+      "options": [
+        "Obturator nerve",
+        "Femoral nerve",
+        "Tibial nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Obturator nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension and abduction of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Piriformis",
+        "Obturator internus"
+      ],
+      "answer": "Gluteus medius"
+    },
+    {
+      "question": "Which nerve innervates the piriformis muscle?",
+      "options": [
+        "Superior gluteal nerve",
+        "Inferior gluteal nerve",
+        "Sciatic nerve",
+        "Femoral nerve"
+      ],
+      "answer": "N/A (Innervated by branches of S1-S2 nerve roots, not a named peripheral nerve)"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the hip?",
+      "options": [
+        "Adductor magnus",
+        "Pectineus",
+        "Gracilis",
+        "Quadratus femoris"
+      ],
+      "answer": "Adductor magnus"
+    },
+    {
+      "question": "Which nerve innervates the pectineus muscle?",
+      "options": [
+        "Femoral nerve",
+        "Obturator nerve",
+        "Tibial nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "Femoral nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion and lateral rotation of the hip?",
+      "options": [
+        "Iliacus",
+        "Psoas major",
+        "Sartorius",
+        "Rectus femoris"
+      ],
+      "answer": "Sartorius"
+    },
+    {
+      "question": "Which nerve innervates the quadratus femoris muscle?",
+      "options": [
+        "Tibial nerve",
+        "Femoral nerve",
+        "Obturator nerve",
+        "Sciatic nerve"
+      ],
+      "answer": "N/A (Innervated by branches of L4-S1 nerve roots, not a named peripheral nerve)"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the hip?",
+      "options": [
+        "Iliopsoas",
+        "Gluteus maximus",
+        "Tensor fasciae latae",
+        "Biceps femoris"
+      ],
+      "answer": "Iliopsoas"
+    },
+    {
+      "question": "Which nerve innervates the gluteus maximus muscle?",
+      "options": [
+        "Inferior gluteal nerve",
+        "Superior gluteal nerve",
+        "Sciatic nerve",
+        "Femoral nerve"
+      ],
+      "answer": "Inferior gluteal nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the hip?",
+      "options": [
+        "Gluteus maximus",
+        "Gluteus medius",
+        "Rectus femoris",
+        "Psoas major"
+      ],
+      "answer": "Gluteus maximus"
+    },
+    {
+      "question": "Which nerve innervates the psoas major muscle?",
+      "options": [
+        "Tibial nerve",
+        "Obturator nerve",
+        "Femoral nerve",
+        "Lumbar plexus"
+      ],
+      "answer": "Lumbar plexus"
+    },
+    {
+      "question": "Which muscle is responsible for lateral rotation of the hip?",
+      "options": [
+        "Piriformis",
+        "Obturator externus",
+        "Quadratus femoris",
+        "Gemellus superior"
+      ],
+      "answer": "Piriformis"
+    },
+    {
+      "question": "Which nerve innervates the tibialis anterior muscle?",
+      "options": [
+        "Deep fibular (peroneal) nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Deep fibular (peroneal) nerve"
+    },
+    {
+      "question": "Which muscle is responsible for dorsiflexion of the ankle?",
+      "options": [
+        "Gastrocnemius",
+        "Soleus",
+        "Tibialis anterior",
+        "Peroneus longus"
+      ],
+      "answer": "Tibialis anterior"
+    },
+    {
+      "question": "Which nerve innervates the gastrocnemius muscle?",
+      "options": [
+        "Tibial nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Deep fibular (peroneal) nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for plantarflexion of the ankle?",
+      "options": [
+        "Tibialis anterior",
+        "Soleus",
+        "Peroneus longus",
+        "Extensor digitorum longus"
+      ],
+      "answer": "Soleus"
+    },
+    {
+      "question": "Which nerve innervates the soleus muscle?",
+      "options": [
+        "Superficial fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve",
+        "Deep fibular (peroneal) nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for eversion of the foot?",
+      "options": [
+        "Tibialis posterior",
+        "Peroneus longus",
+        "Soleus",
+        "Gastrocnemius"
+      ],
+      "answer": "Peroneus longus"
+    },
+    {
+      "question": "Which nerve innervates the peroneus longus muscle?",
+      "options": [
+        "Deep fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Superficial fibular (peroneal) nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Superficial fibular (peroneal) nerve"
+    },
+    {
+      "question": "Which muscle is responsible for inversion of the foot?",
+      "options": [
+        "Peroneus tertius",
+        "Tibialis posterior",
+        "Extensor digitorum longus",
+        "Flexor digitorum longus"
+      ],
+      "answer": "Tibialis posterior"
+    },
+    {
+      "question": "Which nerve innervates the tibialis posterior muscle?",
+      "options": [
+        "Saphenous nerve",
+        "Tibial nerve",
+        "Deep fibular (peroneal) nerve",
+        "Superficial fibular (peroneal) nerve"
+      ],
+      "answer": "Tibial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the toes?",
+      "options": [
+        "Flexor digitorum longus",
+        "Extensor digitorum longus",
+        "Abductor hallucis",
+        "Flexor hallucis longus"
+      ],
+      "answer": "Extensor digitorum longus"
+    },
+    {
+      "question": "Which nerve innervates the extensor digitorum longus muscle?",
+      "options": [
+        "Superficial fibular (peroneal) nerve",
+        "Deep fibular (peroneal) nerve",
+        "Tibial nerve",
+        "Saphenous nerve"
+      ],
+      "answer": "Deep fibular (peroneal) nerve"
+    }
+  ],
+  "upperLimbOsteology": [
+    {
+      "question": "Which of the following bones is NOT part of the shoulder girdle?",
+      "options": [
+        "Scapula",
+        "Clavicle",
+        "Humerus",
+        "Radius"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the projection on the scapula that articulates with the clavicle?",
+      "options": [
+        "Glenoid fossa",
+        "Coracoid process",
+        "Acromion",
+        "Supraspinous fossa"
+      ],
+      "answer": "Glenoid fossa"
+    },
+    {
+      "question": "Which of the following bones forms the elbow joint?",
+      "options": [
+        "Humerus",
+        "Radius",
+        "Ulna",
+        "Carpals"
+      ],
+      "answer": "Ulna"
+    },
+    {
+      "question": "What is the name of the bone that forms the base of the thumb?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Trapezium"
+      ],
+      "answer": "Trapezium"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the wrist joint?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Hamate"
+      ],
+      "answer": "Hamate"
+    },
+    {
+      "question": "What is the name of the projection on the humerus that articulates with the ulna?",
+      "options": [
+        "Olecranon fossa",
+        "Coronoid fossa",
+        "Radial tuberosity",
+        "Capitulum"
+      ],
+      "answer": "Olecranon fossa"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the hand?",
+      "options": [
+        "Metacarpals",
+        "Phalanges",
+        "Carpals",
+        "Radius"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the bone that articulates with the scaphoid and lunate to form the wrist joint?",
+      "options": [
+        "Capitate",
+        "Hamate",
+        "Triquetral",
+        "Trapezoid"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the bone that articulates with the ulna to form the elbow joint?",
+      "options": [
+        "Radius",
+        "Humerus",
+        "Carpals",
+        "Scapula"
+      ],
+      "answer": "Humerus"
+    },
+    {
+      "question": "What is the name of the small bone located at the base of the first metacarpal?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Trapezium"
+      ],
+      "answer": "Trapezium"
+    },
+    {
+      "question": "Which of the following bones articulates with the humerus to form the shoulder joint?",
+      "options": [
+        "Scapula",
+        "Clavicle",
+        "Ulna",
+        "Radius"
+      ],
+      "answer": "Scapula"
+    },
+    {
+      "question": "What is the name of the bone that forms the medial aspect of the forearm?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Humerus",
+        "Carpals"
+      ],
+      "answer": "Ulna"
+    },
+    {
+      "question": "What is the name of the projection on the scapula that forms the tip of the shoulder?",
+      "options": [
+        "Glenoid fossa",
+        "Coracoid process",
+        "Acromion",
+        "Supraspinous fossa"
+      ],
+      "answer": "Acromion"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the proximal row of carpal bones?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Trapezium"
+      ],
+      "answer": "Trapezoid"
+    },
+    {
+      "question": "What is the name of the projection on the ulna that forms the point of the elbow?",
+      "options": [
+        "Olecranon",
+        "Coronoid process",
+        "Radial tuberosity",
+        "Capitulum"
+      ],
+      "answer": "Olecranon"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the distal row of carpal bones?",
+      "options": [
+        "Hamate",
+        "Capitate",
+        "Trapezoid",
+        "Trapezium"
+      ],
+      "answer": "Triquetral"
+    },
+    {
+      "question": "What is the name of the bone that forms the lateral aspect of the forearm?",
+      "options": [
+        "Ulna",
+        "Radius",
+        "Humerus",
+        "Carpals"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "Which of the following bones does NOT articulate with the wrist joint?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Scaphoid",
+        "Talus"
+      ],
+      "answer": "Talus"
+    },
+    {
+      "question": "What is the name of the bone that articulates with the ulna to form the distal radioulnar joint?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Radius"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the bone that articulates with the humerus and ulna to form the elbow joint?",
+      "options": [
+        "Radius",
+        "Humerus",
+        "Carpals",
+        "Scapula"
+      ],
+      "answer": "Humerus"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the greater tubercle of the humerus?",
+      "options": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Teres major",
+        "Deltoid"
+      ],
+      "answer": "Teres major"
+    },
+    {
+      "question": "Which of the following bones forms the wrist joint?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Scaphoid",
+        "Trapezium"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the joint between the proximal and distal rows of carpal bones?",
+      "options": [
+        "Intermetacarpal joint",
+        "Interphalangeal joint",
+        "Radiocarpal joint",
+        "Midcarpal joint"
+      ],
+      "answer": "Midcarpal joint"
+    },
+    {
+      "question": "Which of the following bones does NOT form part of the elbow joint?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Humerus",
+        "Scapula"
+      ],
+      "answer": "Scapula"
+    },
+    {
+      "question": "Which of the following bones articulates with the ulna to form the wrist joint?",
+      "options": [
+        "Radius",
+        "Carpals",
+        "Metacarpals",
+        "Phalanges"
+      ],
+      "answer": "Carpals"
+    },
+    {
+      "question": "What is the name of the groove on the humerus that the ulnar nerve runs through?",
+      "options": [
+        "Bicipital groove",
+        "Radial groove",
+        "Sulcus terminalis",
+        "Coronoid fossa"
+      ],
+      "answer": "Radial groove"
+    },
+    {
+      "question": "Which of the following bones is NOT part of the shoulder girdle?",
+      "options": [
+        "Humerus",
+        "Scapula",
+        "Clavicle",
+        "Sternum"
+      ],
+      "answer": "Humerus"
+    },
+    {
+      "question": "What is the name of the joint between the humerus and scapula?",
+      "options": [
+        "Glenohumeral joint",
+        "Acromioclavicular joint",
+        "Sternoclavicular joint",
+        "Scapulothoracic joint"
+      ],
+      "answer": "Glenohumeral joint"
+    },
+    {
+      "question": "Which of the following bones forms the roof of the carpal tunnel?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Trapezium"
+      ],
+      "answer": "Trapezium"
+    },
+    {
+      "question": "Which of the following muscles originates from the coracoid process of the scapula?",
+      "options": [
+        "Pectoralis major",
+        "Biceps brachii",
+        "Coracobrachialis",
+        "Subscapularis"
+      ],
+      "answer": "Coracobrachialis"
+    },
+    {
+      "question": "Which of the following muscles attaches to the greater tubercle of the humerus via the rotator cuff?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Supraspinatus"
+    },
+    {
+      "question": "What is the name of the joint between the distal radius and ulna?",
+      "options": [
+        "Radioulnar joint",
+        "Proximal radioulnar joint",
+        "Distal radioulnar joint",
+        "Elbow joint"
+      ],
+      "answer": "Distal radioulnar joint"
+    },
+    {
+      "question": "Which of the following bones forms the proximal end of the ulna?",
+      "options": [
+        "Olecranon",
+        "Coronoid process",
+        "Styloid process",
+        "Head"
+      ],
+      "answer": "Olecranon"
+    },
+    {
+      "question": "Which of the following ligaments stabilizes the acromioclavicular joint?",
+      "options": [
+        "Coracoclavicular ligament",
+        "Coracoacromial ligament",
+        "Glenohumeral ligament",
+        "Transverse humeral ligament"
+      ],
+      "answer": "Coracoclavicular ligament"
+    },
+    {
+      "question": "Which of the following bones articulates with the scaphoid and triquetral to form the wrist joint?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Hamate",
+        "Capitate"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the joint between the carpal bones and the metacarpal bones?",
+      "options": [
+        "Metacarpophalangeal joint",
+        "Carpometacarpal joint",
+        "Intermetacarpal joint",
+        "Radiocarpal joint"
+      ],
+      "answer": "Carpometacarpal joint"
+    },
+    {
+      "question": "Which of the following muscles attaches to the medial epicondyle of the humerus?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Anconeus"
+      ],
+      "answer": "Pronator teres"
+    },
+    {
+      "question": "What is the name of the groove on the ulna that the extensor carpi ulnaris tendon runs through?",
+      "options": [
+        "Supinator groove",
+        "Tuberosity groove",
+        "Posterior interosseous border",
+        "Ulnar groove"
+      ],
+      "answer": "Ulnar groove"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the radial tuberosity?",
+      "options": [
+        "Pronator teres",
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "answer": "Biceps brachii"
+    },
+    {
+      "question": "Which of the following muscles attaches to the greater tubercle of the humerus via the rotator cuff?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Supraspinatus"
+    },
+    {
+      "question": "What is the name of the joint between the distal radius and ulna?",
+      "options": [
+        "Radioulnar joint",
+        "Proximal radioulnar joint",
+        "Distal radioulnar joint",
+        "Elbow joint"
+      ],
+      "answer": "Distal radioulnar joint"
+    },
+    {
+      "question": "Which of the following bones forms the proximal end of the ulna?",
+      "options": [
+        "Olecranon",
+        "Coronoid process",
+        "Styloid process",
+        "Head"
+      ],
+      "answer": "Olecranon"
+    },
+    {
+      "question": "Which of the following ligaments stabilizes the acromioclavicular joint?",
+      "options": [
+        "Coracoclavicular ligament",
+        "Coracoacromial ligament",
+        "Glenohumeral ligament",
+        "Transverse humeral ligament"
+      ],
+      "answer": "Coracoclavicular ligament"
+    },
+    {
+      "question": "Which of the following bones articulates with the scaphoid and triquetral to form the wrist joint?",
+      "options": [
+        "Radius",
+        "Ulna",
+        "Hamate",
+        "Capitate"
+      ],
+      "answer": "Radius"
+    },
+    {
+      "question": "What is the name of the joint between the carpal bones and the metacarpal bones?",
+      "options": [
+        "Metacarpophalangeal joint",
+        "Carpometacarpal joint",
+        "Intermetacarpal joint",
+        "Radiocarpal joint"
+      ],
+      "answer": "Carpometacarpal joint"
+    },
+    {
+      "question": "Which of the following muscles attaches to the medial epicondyle of the humerus?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Anconeus"
+      ],
+      "answer": "Pronator teres"
+    },
+    {
+      "question": "What is the name of the groove on the ulna that the extensor carpi ulnaris tendon runs through?",
+      "options": [
+        "Supinator groove",
+        "Tuberosity groove",
+        "Posterior interosseous border",
+        "Ulnar groove"
+      ],
+      "answer": "Ulnar groove"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the radial tuberosity?",
+      "options": [
+        "Pronator teres",
+        "Biceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "answer": "Biceps brachii"
+    },
+    {
+      "question": "What is the name of the joint between the humerus and the scapula?",
+      "options": [
+        "Glenohumeral joint",
+        "Acromioclavicular joint",
+        "Sternoclavicular joint",
+        "Scapulothoracic joint"
+      ],
+      "answer": "Glenohumeral joint"
+    },
+    {
+      "question": "Which of the following bones forms the medial border of the anatomical snuffbox?",
+      "options": [
+        "Scaphoid",
+        "Trapezium",
+        "Triquetral",
+        "Hamate"
+      ],
+      "answer": "Triquetral"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the coracoid process of the scapula?",
+      "options": [
+        "Pectoralis minor",
+        "Serratus anterior",
+        "Subclavius",
+        "Biceps brachii"
+      ],
+      "answer": "Pectoralis minor"
+    },
+    {
+      "question": "Which of the following bones is the largest bone in the wrist?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Capitate"
+      ],
+      "answer": "Capitate"
+    },
+    {
+      "question": "What is the name of the joint between the trapezium and the first metacarpal bone?",
+      "options": [
+        "Radiocarpal joint",
+        "Carpometacarpal joint",
+        "Metacarpophalangeal joint",
+        "Intermetacarpal joint"
+      ],
+      "answer": "Carpometacarpal joint"
+    },
+    {
+      "question": "Which of the following muscles is innervated by the radial nerve?",
+      "options": [
+        "Triceps brachii",
+        "Brachialis",
+        "Pronator teres",
+        "Anconeus"
+      ],
+      "answer": "Triceps brachii"
+    },
+    {
+      "question": "Which of the following bones is the most commonly fractured carpal bone?",
+      "options": [
+        "Scaphoid",
+        "Lunate",
+        "Triquetral",
+        "Trapezium"
+      ],
+      "answer": "Scaphoid"
+    },
+    {
+      "question": "What is the name of the joint between the humerus and the ulna?",
+      "options": [
+        "Elbow joint",
+        "Wrist joint",
+        "Radioulnar joint",
+        "Carpometacarpal joint"
+      ],
+      "answer": "Elbow joint"
+    },
+    {
+      "question": "Which of the following ligaments attaches the coracoid process of the scapula to the acromion process?",
+      "options": [
+        "Coracohumeral ligament",
+        "Coracoacromial ligament",
+        "Coracoclavicular ligament",
+        "Coracoglenoid ligament"
+      ],
+      "answer": "Coracoacromial ligament"
+    }
+  ],
+  "upperLimbSupply": [
+    {
+      "question": "Which muscle is responsible for abduction of the arm beyond the first 15 degrees?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres major",
+        "Deltoid"
+      ],
+      "answer": "Deltoid"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the radial tuberosity?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Supinator"
+      ],
+      "answer": "Biceps brachii"
+    },
+    {
+      "question": "Which nerve innervates the deltoid muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve"
+      ],
+      "answer": "Axillary nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for medial rotation of the arm?",
+      "options": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Teres major",
+        "Subscapularis"
+      ],
+      "answer": "Subscapularis"
+    },
+    {
+      "question": "Which of the following nerves innervates the muscles of the posterior compartment of the arm?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for forearm pronation?",
+      "options": [
+        "Pronator teres",
+        "Pronator quadratus",
+        "Supinator",
+        "Brachioradialis"
+      ],
+      "answer": "Pronator teres"
+    },
+    {
+      "question": "Which nerve innervates the muscles of the anterior compartment of the arm?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Musculocutaneous nerve"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the olecranon process of the ulna?",
+      "options": [
+        "Brachioradialis",
+        "Triceps brachii",
+        "Anconeus",
+        "Supinator"
+      ],
+      "answer": "Triceps brachii"
+    },
+    {
+      "question": "Which of the following nerves innervates the muscles of the hand?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the arm?",
+      "options": [
+        "Pectoralis major",
+        "Latissimus dorsi",
+        "Teres major",
+        "Deltoid"
+      ],
+      "answer": "Pectoralis major"
+    },
+    {
+      "question": "Which nerve innervates the supraspinatus muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Suprascapular nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for flexion of the elbow joint?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Supinator"
+      ],
+      "answer": "Brachialis"
+    },
+    {
+      "question": "Which nerve innervates the flexor carpi radialis muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for extension of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Extensor carpi radialis longus"
+    },
+    {
+      "question": "Which nerve innervates the supinator muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Median nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the medial epicondyle of the humerus?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Flexor carpi ulnaris"
+      ],
+      "answer": "Flexor carpi ulnaris"
+    },
+    {
+      "question": "Which nerve innervates the flexor digitorum profundus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Ulnar nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for abduction of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Extensor carpi ulnaris"
+    },
+    {
+      "question": "Which nerve innervates the extensor pollicis longus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for abduction of the thumb?",
+      "options": [
+        "Abductor pollicis longus",
+        "Opponens pollicis",
+        "Extensor pollicis longus",
+        "Flexor pollicis longus"
+      ],
+      "answer": "Abductor pollicis longus"
+    },
+    {
+      "question": "Which of the following muscles is responsible for adduction of the shoulder joint?",
+      "options": [
+        "Latissimus dorsi",
+        "Pectoralis major",
+        "Deltoid",
+        "Teres major"
+      ],
+      "answer": "Pectoralis major"
+    },
+    {
+      "question": "Which nerve innervates the flexor pollicis longus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the radial tuberosity?",
+      "options": [
+        "Brachialis",
+        "Biceps brachii",
+        "Pronator teres",
+        "Brachioradialis"
+      ],
+      "answer": "Biceps brachii"
+    },
+    {
+      "question": "Which nerve innervates the subscapularis muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Suprascapular nerve"
+      ],
+      "answer": "Upper and lower subscapular nerves"
+    },
+    {
+      "question": "Which of the following muscles is responsible for extension of the elbow joint?",
+      "options": [
+        "Brachialis",
+        "Triceps brachii",
+        "Pronator teres",
+        "Supinator"
+      ],
+      "answer": "Triceps brachii"
+    },
+    {
+      "question": "Which nerve innervates the teres minor muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Axillary nerve"
+    },
+    {
+      "question": "Which of the following muscles is responsible for adduction of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Flexor carpi ulnaris"
+    },
+    {
+      "question": "Which nerve innervates the palmaris longus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which of the following muscles inserts onto the lateral epicondyle of the humerus?",
+      "options": [
+        "Brachialis",
+        "Brachioradialis",
+        "Pronator teres",
+        "Supinator"
+      ],
+      "answer": "Supinator"
+    },
+    {
+      "question": "Which nerve innervates the flexor carpi ulnaris muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Ulnar nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the shoulder joint beyond the first 15 degrees?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Deltoid"
+    },
+    {
+      "question": "Which nerve innervates the pronator quadratus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Anterior interosseous nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Flexor carpi radialis"
+    },
+    {
+      "question": "Which nerve innervates the supinator muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Extensor carpi radialis longus"
+    },
+    {
+      "question": "Which nerve innervates the brachialis muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Musculocutaneous nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Extensor carpi ulnaris"
+    },
+    {
+      "question": "Which nerve innervates the coracobrachialis muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Musculocutaneous nerve"
+    },
+    {
+      "question": "Which muscle is responsible for medial rotation of the arm?",
+      "options": [
+        "Pectoralis major",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Subscapularis"
+    },
+    {
+      "question": "Which nerve innervates the brachioradialis muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the shoulder joint?",
+      "options": [
+        "Teres major",
+        "Pectoralis minor",
+        "Rhomboid major",
+        "Trapezius"
+      ],
+      "answer": "Teres major"
+    },
+    {
+      "question": "Which nerve innervates the palmaris longus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the elbow joint?",
+      "options": [
+        "Biceps brachii",
+        "Triceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "answer": "Triceps brachii"
+    },
+    {
+      "question": "Which nerve innervates the adductor pollicis muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Ulnar nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the thumb?",
+      "options": [
+        "Abductor pollicis longus",
+        "Extensor pollicis brevis",
+        "Extensor pollicis longus",
+        "Extensor pollicis tertius"
+      ],
+      "answer": "Extensor pollicis longus"
+    },
+    {
+      "question": "Which nerve innervates the flexor pollicis longus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which muscle is responsible for adduction of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Flexor carpi ulnaris"
+    },
+    {
+      "question": "Which nerve innervates the supraspinatus muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Suprascapular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for lateral rotation of the arm?",
+      "options": [
+        "Pectoralis major",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Infraspinatus"
+    },
+    {
+      "question": "Which nerve innervates the extensor digitorum muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Radial nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the shoulder joint?",
+      "options": [
+        "Supraspinatus",
+        "Infraspinatus",
+        "Teres minor",
+        "Subscapularis"
+      ],
+      "answer": "Supraspinatus"
+    },
+    {
+      "question": "Which nerve innervates the flexor carpi radialis muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Median nerve"
+    },
+    {
+      "question": "Which muscle is responsible for opposition of the thumb?",
+      "options": [
+        "Adductor pollicis",
+        "Opponens pollicis",
+        "Flexor pollicis longus",
+        "Abductor pollicis brevis"
+      ],
+      "answer": "Opponens pollicis"
+    },
+    {
+      "question": "Which nerve innervates the coracobrachialis muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Musculocutaneous nerve"
+    },
+    {
+      "question": "Which muscle is responsible for flexion of the elbow joint?",
+      "options": [
+        "Biceps brachii",
+        "Triceps brachii",
+        "Brachialis",
+        "Brachioradialis"
+      ],
+      "answer": "Brachialis"
+    },
+    {
+      "question": "Which nerve innervates the flexor digitorum profundus muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Ulnar nerve"
+    },
+    {
+      "question": "Which muscle is responsible for abduction of the wrist joint?",
+      "options": [
+        "Flexor carpi radialis",
+        "Extensor carpi radialis longus",
+        "Flexor carpi ulnaris",
+        "Extensor carpi ulnaris"
+      ],
+      "answer": "Extensor carpi radialis longus"
+    },
+    {
+      "question": "Which nerve innervates the subscapularis muscle?",
+      "options": [
+        "Axillary nerve",
+        "Radial nerve",
+        "Ulnar nerve",
+        "Suprascapular nerve"
+      ],
+      "answer": "Subscapular nerve"
+    },
+    {
+      "question": "Which muscle is responsible for extension of the fingers?",
+      "options": [
+        "Flexor digitorum superficialis",
+        "Extensor digitorum",
+        "Flexor digitorum profundus",
+        "Palmaris longus"
+      ],
+      "answer": "Extensor digitorum"
+    },
+    {
+      "question": "Which nerve innervates the brachioradialis muscle?",
+      "options": [
+        "Median nerve",
+        "Ulnar nerve",
+        "Radial nerve",
+        "Musculocutaneous nerve"
+      ],
+      "answer": "Radial nerve"
+    }
+  ]
+}
