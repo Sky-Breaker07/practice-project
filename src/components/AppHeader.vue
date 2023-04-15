@@ -13,6 +13,7 @@
         data() {
             return {
                 list: [
+                    { title: "Home", to: "/"},
                     { title: "Dc Heroes", to: "/DcHeroes"},
                     { title: "Calendar", to: "/CalendarApp"},
                     { title: "Markdown", to: "/Markdown"},

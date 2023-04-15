@@ -21,7 +21,7 @@
     </section>
     <section class="flex justify-between my-4">
         <button class="px-5 border rounded" @click="prevMonth()">Prev</button>
-        <button class="px-5 border rounded" @click="nextMonth()">Next</button>
+        <button class="px-5 border rounded mx-192" @click="nextMonth()">Next</button>
     </section>
 </template>
 
