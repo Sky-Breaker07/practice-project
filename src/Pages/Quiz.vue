@@ -136,7 +136,7 @@
             class="bg-green-700 mx-2 px-2 py-1 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
             :disabled="disableNext" @click="nextQuestion()">Next</button>
         </div>
-        <div class="flex justify-center my-8">
+        <div class="flex justify-center my-8" v-if="answeredQuestions.length === questions.length">
           <button
             class="bg-green-700 mx-2 px-2 py-1 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
             @click="nextPage()">Click here to view your Result Sheet</button>

@@ -17,7 +17,7 @@
         </svg>
       </button>
     </div>
-    <div class="hidden sm:flex">
+    <div class="md:flex md:visible invisible">
       <router-link v-for="item in list" :key="item.to" :to="item.to" class="mx-3" @click="showMenu = false">{{ item.title }}</router-link>
       <button class="mx-3 border-white" @click="$emit('open-login-modal')">Login</button>
     </div>
