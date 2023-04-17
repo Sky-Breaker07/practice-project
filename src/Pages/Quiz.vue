@@ -56,89 +56,100 @@
 
   <!-- Select Quiz -->
   <div v-if="sectionNumber === 2">
- <div class="bg-gray-100 h-screen flex justify-center items-center">
-    <div class="max-w-lg w-full bg-white rounded-lg shadow-lg p-4">
-      <h2 class="text-2xl font-bold mb-4">Select a Quiz</h2>
-      <div class="flex flex-wrap justify-between">
-        <div class="w-full mb-4" @click="loadQuestion1()">
-          <div class="bg-gray-800 rounded-lg p-4 text-white cursor-pointer hover:bg-gray-700 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
-            <h3 class="text-lg font-bold mb-2">Osteology of the Lower Limbs</h3>
-            <!-- <p class="text-sm">Test your knowledge of world history.</p> -->
+    <div class="bg-gray-100 h-screen flex justify-center items-center">
+      <div class="max-w-lg w-full bg-white rounded-lg shadow-lg p-4">
+        <h2 class="text-2xl font-bold mb-4">Select a Quiz</h2>
+        <div class="flex flex-wrap justify-between">
+          <div class="w-full mb-4" @click="loadQuestion1()">
+            <div
+              class="bg-gray-800 rounded-lg p-4 text-white cursor-pointer hover:bg-gray-700 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+              <h3 class="text-lg font-bold mb-2">Osteology of the Lower Limbs</h3>
+              <!-- <p class="text-sm">Test your knowledge of world history.</p> -->
+            </div>
           </div>
-        </div>
-        <div class="w-full mb-4" @click="loadQuestion2()">
-          <div class="bg-blue-600 rounded-lg p-4 text-white cursor-pointer hover:bg-blue-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
-            <h3 class="text-lg font-bold mb-2">Musculature and Innervation of the lower limbs</h3>
-            <!-- <p class="text-sm">Challenge yourself with some math problems.</p> -->
+          <div class="w-full mb-4" @click="loadQuestion2()">
+            <div
+              class="bg-blue-600 rounded-lg p-4 text-white cursor-pointer hover:bg-blue-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+              <h3 class="text-lg font-bold mb-2">Musculature and Innervation of the lower limbs</h3>
+              <!-- <p class="text-sm">Challenge yourself with some math problems.</p> -->
+            </div>
           </div>
-        </div>
-        <div class="w-full mb-4" @click="loadQuestion3()">
-          <div class="bg-purple-600 rounded-lg p-4 text-white cursor-pointer hover:bg-purple-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
-            <h3 class="text-lg font-bold mb-2">Osteology of the Upper Limbs</h3>
-            <!-- <p class="text-sm">Test your knowledge of world geography.</p> -->
+          <div class="w-full mb-4" @click="loadQuestion3()">
+            <div
+              class="bg-purple-600 rounded-lg p-4 text-white cursor-pointer hover:bg-purple-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+              <h3 class="text-lg font-bold mb-2">Osteology of the Upper Limbs</h3>
+              <!-- <p class="text-sm">Test your knowledge of world geography.</p> -->
+            </div>
           </div>
-        </div>
-        <div class="w-full mb-4" @click="loadQuestion4()">
-          <div class="bg-green-600 rounded-lg p-4 text-white cursor-pointer hover:bg-green-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
-            <h3 class="text-lg font-bold mb-2">Innervation and Musculature of the Upper Limbs</h3>
-            <!-- <p class="text-sm">Test your knowledge of science and technology.</p> -->
+          <div class="w-full mb-4" @click="loadQuestion4()">
+            <div
+              class="bg-green-600 rounded-lg p-4 text-white cursor-pointer hover:bg-green-500 transition duration-300 transform hover:-translate-y-1 hover:scale-105">
+              <h3 class="text-lg font-bold mb-2">Innervation and Musculature of the Upper Limbs</h3>
+              <!-- <p class="text-sm">Test your knowledge of science and technology.</p> -->
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>  
 
   <!-- Quiz Section -->
   <section v-if="sectionNumber === 3">
-    <section class="w-full flex mt-6">
-      <div class="m-auto flex">
-        <h1 class="text-2xl text-blue-600 font-semibold mx-12">
+    <section class="w-full flex flex-wrap justify-center mt-6">
+      <div class="flex justify-center w-full md:w-auto md:mx-auto">
+        <h1 class="text-2xl text-blue-600 font-semibold mx-4 md:mx-12">
           Attempted Questions: {{ answeredQuestions.length }}
         </h1>
-        <h1 class="text-2xl text-yellow-400 font-semibold mx-12">
+        <h1 class="text-2xl text-yellow-400 font-semibold mx-4 md:mx-12">
           Unattempted Questions : {{ questions.length - answeredQuestions.length }}
         </h1>
-        <h1 class="text-2xl text-green-600 font-semibold mx-12">
+        <h1 class="text-2xl text-green-600 font-semibold mx-4 md:mx-12">
           Score: {{ score }}/{{ questions.length }}
         </h1>
       </div>
     </section>
-    <section class="w-full flex my-5 ">
-      <div class="m-auto ">
-        <div class="border-double border-4 h-10 rounded" style="width: 40rem; height: fit-content;">
+
+    <section class="w-full flex justify-center my-5">
+      <div class="w-full md:w-5/6 lg:w-3/4 xl:w-1/2">
+        <div class="border-double border-4 rounded-md">
           <div>
-            <h1 class="text-center text-2xl font-medium" v-html="marked(question.question)"></h1>
+            <h1 class="text-center text-2xl font-medium py-4" v-html="marked(question.question)"></h1>
           </div>
-          <div class="mt-10">
-            <button class="border-double border-4 justify-center ml-10 mr-10 mb-5"
-              style="width: 35rem; height: fit-content;" v-for="option, index in options" @click="selectOption(option)"
-              :key="option" v-html="marked(option)" :class="checkOption(option)">
+          <div class="my-8">
+            <button class="border-double border-4 justify-center my-2 mx-4 px-2 py-1 w-full"
+              v-for="option, index in options" @click="selectOption(option)" :key="option" v-html="marked(option)"
+              :class="checkOption(option)">
             </button>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="flex w-full">
-      <div class="m-auto" v-if="answeredQuestions.length < questions.length">
-        <button
-          class="bg-blue-700 mx-4 px-2 text-white transition duration-500 ease-in-out hover:bg-green-500 transform hover:-translate-y-1 hover:scale-110 ..."
-          @click="checkAnswer()" :disabled="disableSubmit" :class="selectedOption ===  '' ? 'cursor-not-allowed' : ''">Submit</button>
-        <button
-          class="bg-green-700 mx-4 px-2 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
-          :disabled="disableNext" @click="nextQuestion()">Next</button>
-      </div>
-      <div class="m-auto" v-if="answeredQuestions.length === questions.length">
-        <button
-          class="bg-green-700 mx-4 px-2 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
-          @click="nextPage()">Click here to view your Result Sheet</button>
+    <section class="w-full flex justify-center">
+      <div class="w-full md:w-5/6 lg:w-3/4 xl:w-1/2">
+        <div class="flex justify-center my-8">
+          <button
+            class="bg-blue-700 mx-2 px-2 py-1 text-white transition duration-500 ease-in-out hover:bg-green-500 transform hover:-translate-y-1 hover:scale-110 ..."
+            @click="checkAnswer()" :disabled="disableSubmit"
+            :class="selectedOption === '' ? 'cursor-not-allowed' : ''">Submit</button>
+          <button
+            class="bg-green-700 mx-2 px-2 py-1 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
+            :disabled="disableNext" @click="nextQuestion()">Next</button>
+        </div>
+        <div class="flex justify-center my-8">
+          <button
+            class="bg-green-700 mx-2 px-2 py-1 text-white transition duration-500 ease-in-out hover:bg-yellow-500 transform hover:-translate-y-1 hover:scale-110 ..."
+            @click="nextPage()">Click here to view your Result Sheet</button>
+        </div>
       </div>
     </section>
-    <section class="flex w-full mt-8">
-      <div class="grid grid-cols-12 gap-1 m-auto">
-        <button v-for="quiz, index in questions" :key="index" class="px-8 border rounded shadow h-10"
-          :class="questionButton(index)" @click="pickQuestion(index)">{{ index + 1 }}</button>
+
+    <section class="w-full flex justify-center mt-8">
+      <div class="w-full md:w-5/6 lg:w-3/4 xl:w-1/2">
+        <div class="grid grid-cols-6 md:grid-cols-12 gap-1">
+          <button v-for="quiz, index in questions" :key="index" class="px-4 md:px-8 border rounded shadow h-8 md:h-10"
+            :class="questionButton(index)" @click="pickQuestion(index)">{{ index + 1 }}</button>
+        </div>
       </div>
     </section>
   </section>
@@ -175,7 +186,8 @@
             <div class="flex items-center justify-between">
               <div class="h-2 w-full bg-gray-200 rounded-full">
                 <div class="text-center text-xs text-white bg-green-500 rounded-full"
-                  :style="'width: ' + (score * (100/questions.length)) + '%'">{{ parseInt(score * (100/questions.length))}}%</div>
+                  :style="'width: ' + (score * (100 / questions.length)) + '%'">{{ parseInt(score *
+                    (100 / questions.length)) }}%</div>
               </div>
             </div>
           </div>
@@ -222,8 +234,8 @@ export default {
     let disableSubmit = ref(true);
     let score = ref(0);
     let questionIndex = ref(0);
-    let question = ref(questions.value[questionIndex.value]);    
-    let correctAnswer = ref(question.value.answer);    
+    let question = ref(questions.value[questionIndex.value]);
+    let correctAnswer = ref(question.value.answer);
     // let incorrectAnswers = ref(question.value.incorrect_answers);
     // let rawOptions = ref([...incorrectAnswers.value, correctAnswer.value]);
     let options = ref(shuffleArray(question.value.options));
@@ -234,26 +246,26 @@ export default {
     let selectedQuestion = ref();
     // let showResultButton = ref(false);
 
-    function loadQuestion1 () {
+    function loadQuestion1() {
       questions.value = questionsLLO.value;
       sectionNumber.value = 3;
     };
 
-    function loadQuestion2 () {
+    function loadQuestion2() {
       questions.value = questionsLLS.value;
       sectionNumber.value = 3;
     };
 
-    function loadQuestion3 () {
+    function loadQuestion3() {
       questions.value = questionsULO.value;
       sectionNumber.value = 3;
     };
 
-    function loadQuestion4 () {
+    function loadQuestion4() {
       questions.value = questionsULS.value;
       sectionNumber.value = 3;
     };
-    
+
     function validateForm() {
       const firstNameInput = document.getElementById("first-name");
       const lastNameInput = document.getElementById("last-name");
@@ -326,7 +338,7 @@ export default {
         isValid.value = true;
         disableInput.value = true;
       } else if (checkList.value < 6) {
-        checkList.value = 0;        
+        checkList.value = 0;
       }
       // return isValid;
     };
@@ -373,7 +385,7 @@ export default {
         score.value = score.value + 0;
         unawardedQuestions.value.push(questionIndex.value)
       }
-      
+
     }
 
 
@@ -387,7 +399,7 @@ export default {
           selectedOption.value = '';
           question.value = questions.value[questionIndex.value];
           correctAnswer.value = question.value.correct_answer;
-          correctAnswer = ref(question.value.answer); 
+          correctAnswer = ref(question.value.answer);
           options = ref(shuffleArray(question.value.options));
           // incorrectAnswers.value = question.value.incorrect_answers;
           // rawOptions.value = [...incorrectAnswers.value, correctAnswer.value];
@@ -401,7 +413,7 @@ export default {
           selectedOption.value = '';
           question.value = questions.value[questionIndex.value];
           correctAnswer.value = question.value.correct_answer;
-          correctAnswer.value = question.value.answer; 
+          correctAnswer.value = question.value.answer;
           options.value = shuffleArray(question.value.options);
           // incorrectAnswers.value = question.value.incorrect_answers;
           // rawOptions.value = [...incorrectAnswers.value, correctAnswer.value];
@@ -428,7 +440,7 @@ export default {
         selectedOption.value = '';
         question.value = questions.value[questionIndex.value];
         correctAnswer.value = question.value.correct_answer;
-        correctAnswer.value = question.value.answer 
+        correctAnswer.value = question.value.answer
         options.value = shuffleArray(question.value.options);
         // incorrectAnswers.value = question.value.incorrect_answers;
         // rawOptions.value = [...incorrectAnswers.value, correctAnswer.value];
@@ -441,16 +453,14 @@ export default {
     }
 
     return {
-      questionsLLO, questionsLLS, questions, score, questionIndex, question, marked, correctAnswer, options, selectedOption, disableOptions, disableSubmit, disableNext, answeredQuestions, awardedQuestions, unawardedQuestions, selectedQuestion, sectionNumber, firstName, lastName, userAge, phone, email, nationality, isValid, disableInput, checkList, shuffleArray, selectOption, checkAnswer, nextQuestion, checkOption, questionButton, pickQuestion, validateForm, nextPage, loadQuestion1, loadQuestion2, loadQuestion3, loadQuestion4     
+      questionsLLO, questionsLLS, questions, score, questionIndex, question, marked, correctAnswer, options, selectedOption, disableOptions, disableSubmit, disableNext, answeredQuestions, awardedQuestions, unawardedQuestions, selectedQuestion, sectionNumber, firstName, lastName, userAge, phone, email, nationality, isValid, disableInput, checkList, shuffleArray, selectOption, checkAnswer, nextQuestion, checkOption, questionButton, pickQuestion, validateForm, nextPage, loadQuestion1, loadQuestion2, loadQuestion3, loadQuestion4
     }
   },
 }
 </script>
 
 
-<style>
-  .transform {
+<style>.transform {
   transition-property: transform;
   transition-timing-function: ease-out;
-}
-</style>
+}</style>
